@@ -1,4 +1,4 @@
-# AI Çeviri ve Sohbet API
+# AI Çeviri 
 
 Bu proje, Google'ın Gemini AI modelini kullanarak çeviri uygulaması.
 
