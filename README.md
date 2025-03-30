@@ -50,12 +50,3 @@ python chat.py
 ```bash
 curl -X POST http://localhost:8000/translate -H "Content-Type: application/json" -d '{"text": "Hello world", "language": "Türkçe"}'
 ```
-
-### Sohbet API Örneği
-```bash
-curl -X POST http://localhost:8001/chat -H "Content-Type: application/json" -d '{"message": "Merhaba, nasılsın?"}'
-```
-
-## Lisans
-
-MIT 
