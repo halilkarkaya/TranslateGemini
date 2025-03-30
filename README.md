@@ -1,11 +1,10 @@
 # AI Çeviri ve Sohbet API
 
-Bu proje, Google'ın Gemini AI modelini kullanarak çeviri ve sohbet hizmetleri sunan bir FastAPI uygulamasıdır.
+Bu proje, Google'ın Gemini AI modelini kullanarak çeviri uygulaması.
 
 ## Özellikler
 
 - Çeviri API'si (Port 8000)
-- Sohbet API'si (Port 8001)
 - Google Gemini AI entegrasyonu
 - FastAPI ile modern API tasarımı
 
@@ -39,11 +38,6 @@ GOOGLE_API_KEY=your_api_key_here
 1. Çeviri API'sini başlatın:
 ```bash
 python at.py
-```
-
-2. Sohbet API'sini başlatın:
-```bash
-python chat.py
 ```
 
 ### Çeviri API Örneği
